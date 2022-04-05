@@ -1,5 +1,5 @@
 import React from "react";
-import {Route, NavLink, BrowserRouter as Router,  Redirect} from "react-router-dom";
+import {Route, NavLink, BrowserRouter as Router} from "react-router-dom";
 // import Home from "./pages/Home";
 // import SEPractice from "./pages/SE-Practice";
 // import SubmitArticle from "./pages/Submit-Article"; 
